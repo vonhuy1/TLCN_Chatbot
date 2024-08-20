@@ -1,0 +1,23 @@
+{
+  "bos_token": "<s>",
+  "cls_token": "<s>",
+  "do_lower_case": false,
+  "eos_token": "</s>",
+  "full_tokenizer_file": null,
+  "mask_token": {
+    "__type": "AddedToken",
+    "content": "<mask>",
+    "lstrip": true,
+    "normalized": true,
+    "rstrip": false,
+    "single_word": false
+  },
+  "model_max_length": 512,
+  "name_or_path": "bhavikardeshna/xlm-roberta-base-vietnamese",
+  "pad_token": "<pad>",
+  "sep_token": "</s>",
+  "sp_model_kwargs": {},
+  "special_tokens_map_file": "/root/.cache/huggingface/transformers/b285d730ad6193f7e96b41152fbc5fb05620f0961f6f513e2d36868dfb1eb2a7.0dc5b1041f62041ebbd23b1297f2f573769d5c97d8b7c28180ec86b8f6185aa8",
+  "tokenizer_class": "XLMRobertaTokenizer",
+  "unk_token": "<unk>"
+}
